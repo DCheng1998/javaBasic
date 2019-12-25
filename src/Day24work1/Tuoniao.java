@@ -1,4 +1,4 @@
-package Day24work;
+package Day24work1;
 
 public class Tuoniao extends Bird {
     private int height;
